@@ -1,0 +1,26 @@
+{
+  "name": "leedom-commamd",
+  "version": "0.0.1",
+  "description": "commandtool",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "pro": "bin/pro.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leedommax/command.git"
+  },
+  "keywords": [
+    "node",
+    "command"
+  ],
+  "author": "leedommax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leedommax/command/issues"
+  },
+  "homepage": "https://github.com/leedommax/command#readme"
+}
